@@ -1,0 +1,2 @@
+scripts:
+  dev: deno run --allow-net --watch --unstable ./src/index.ts
